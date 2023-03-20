@@ -1,0 +1,31 @@
+[33mcommit 11942a67423143943778c44b87d231c8ae8a307b[m[33m ([m[1;36mHEAD -> [m[1;32mupdate-red[m[33m)[m
+Author: TAEHEEJO <aldus107@gmail.com>
+Date:   Mon Mar 20 16:38:18 2023 +0900
+
+    update red
+
+[33mcommit 2347ed87c37edc30b18d6ae60c9a7b75c2725ba9[m[33m ([m[1;32mmain[m[33m)[m
+Author: TAEHEEJO <aldus107@gmail.com>
+Date:   Mon Mar 20 16:30:35 2023 +0900
+
+    Revert "v3 commit"
+    
+    This reverts commit b6a70b09a9a6c01096ed44e1e5583fff88128fe7.
+
+[33mcommit b6a70b09a9a6c01096ed44e1e5583fff88128fe7[m
+Author: TAEHEEJO <aldus107@gmail.com>
+Date:   Mon Mar 20 16:30:08 2023 +0900
+
+    v3 commit
+
+[33mcommit 80969785235bf4b93a7605cd06051d9f92c02f14[m
+Author: TAEHEEJO <aldus107@gmail.com>
+Date:   Mon Mar 20 15:47:14 2023 +0900
+
+    v2 commit
+
+[33mcommit 6ee0334c73cc751a1444e07c48e54d4d87770127[m
+Author: TAEHEEJO <aldus107@gmail.com>
+Date:   Mon Mar 20 15:44:54 2023 +0900
+
+    v1 commit
